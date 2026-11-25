@@ -9,7 +9,7 @@ from google.genai import types
 load_dotenv()
 
 # The Gemini model to use. If Google retires it, change this one line.
-MODEL_NAME = "gemini-2.5-flash"
+MODEL_NAME = ""gemini-3.8-flash""
 
 DEFAULT_SYSTEM_PROMPT = (
     "You are a helpful, friendly assistant. Keep your answers clear and simple."
